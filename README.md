@@ -84,9 +84,9 @@ A computer game named "Bulldozer Game Prototype" was developed to demonstrate th
 
 I have been honored to deliver invited talks at several universities, sharing insights on VR and VDC technologies in the AEC industry. View one of my presentation slides here: [Link](https://github.com/fliucm/vr/blob/c748bc4b1877332696976e39d97660a88c7cfeaa/files/Presentation.pdf)
 
-## 3.2 External Collaboration
+## 3.2 External Collaborations
 
-In 2019, I engaged in a collaborative project with the University of Tokyo focusing on AR technology. A prototype was made for Hololens aiming at enhancing user interactions within the real environment. Check out the photos below showcasing the prototype during a public demonstration event.
+I have collaborated with industry and academic practitioners on various VR projects. For instance, In 2019, I engaged in a collaborative project with the University of Tokyo, focusing on AR technology. A prototype was made for Hololens to enhance user interactions within the real environment. The photos below were taken at a public event to showcase the prototype.
 
 <p align="center">
   <img width="300" alt="2" src="https://github.com/fliucm/vr_exp/assets/56698581/383d82a4-35ed-44fa-b778-b2b8358c77d1">
