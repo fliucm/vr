@@ -89,6 +89,6 @@ I have been honored to deliver invited talks at several universities, sharing in
 I have collaborated with industry and academic practitioners on various VR projects. For instance, in 2019, I engaged in a collaborative project with the University of Tokyo, focusing on AR technology. A prototype was made for Hololens to enhance user interactions in the real environment. The photos below were taken at a public event to showcase the prototype.
 
 <p align="center">
-  <img width="300" alt="2" src="https://github.com/fliucm/vr_exp/assets/56698581/383d82a4-35ed-44fa-b778-b2b8358c77d1">
+  <img width="300" alt="image" src="https://github.com/fliucm/vr/assets/56698581/e87056d9-3b48-4808-b400-2da406c5a890">
   <img width="300"  alt="1" src="https://github.com/fliucm/vr_exp/assets/56698581/373b6d89-bd2e-4171-b877-f69e691a0153">
 </p>
