@@ -11,7 +11,7 @@ This interdisciplinary research project compared VR experiences with physical bu
 
 The images below show a comparison of the VR environment (left) and the real space (right):
 <p align="center">
-<img width="512" alt="image" src="https://github.com/fliucm/vr_exp/assets/56698581/6b71080f-c62b-42c0-8c49-75ce975bd420">
+<img width="512" alt="image" src="https://github.com/fliucm/vr/assets/56698581/dccffe9e-adef-4a3b-9cc8-b08c5cf660ed">
 </p>
 
 ## 1.2 Perception of Scale in BIM-Based Virtual Reality Environments
@@ -23,14 +23,13 @@ This project investigated how the scale of a VR environment might influence subj
 The real space is shown in the images below:
 
 <p align="center">
-<img width="1287" alt="image" src="https://github.com/fliucm/vr_exp/assets/56698581/fe7a3d0b-a31d-4ac4-a0ac-f993ecce0f77">
-
+<img width="1287" alt="image" src="https://github.com/fliucm/vr/assets/56698581/30767b96-9998-4126-867d-ed946f10815d">
 </p>
 
 A SketchUp model (left) was created and rendered in Unreal Engine (right):
 
 <p align="center">
-<img width="1559" alt="image" src="https://github.com/fliucm/vr_exp/assets/56698581/8129927f-536a-445b-86ef-59aed3a0428a">
+<img width="1559" alt="image" src="https://github.com/fliucm/vr/assets/56698581/a347c074-2f07-4f9e-8944-cedf9fc98c79">
 </p>
 
 # 2. Teaching VR
@@ -52,23 +51,23 @@ I have collaborated with industry partners to explore new VR tools in AEC. One s
 **Product Picture**:
 
 <p align="center">
-<img width="810" alt="image" src="https://github.com/fliucm/vr_exp/assets/56698581/7822d0ee-4257-45b5-a047-abecb20ba736">
+<img width="810" alt="image" src="https://github.com/fliucm/vr/assets/56698581/38dc9dbd-d510-4218-b392-4521a6881528">
 </p>
 
 **VR View**:
 
 <p align="center">
-<img width="1512" alt="3" src="https://github.com/fliucm/vr_exp/assets/56698581/78f88828-86f2-4f16-ba94-969468f88c15">
+<img width="1512" alt="3" src="https://github.com/fliucm/vr/assets/56698581/0adafcbd-5e6c-4b97-b811-76a8a6008521">
 </p>
 
 Here are two VR environments created for Visual Vocal:
 
 <p align="center">
-<img width="1871" alt="image" src="https://github.com/fliucm/vr_exp/assets/56698581/521d8cd4-c24e-434e-a824-cb84c3c112a0">
+<img width="1871" alt="image" src="https://github.com/fliucm/vr/assets/56698581/2c1cece2-a65c-4240-adf6-7c541c27586d">
 </p>
 
 <p align="center">
-<img width="1870" alt="image" src="https://github.com/fliucm/vr_exp/assets/56698581/cc009865-1631-4b75-b76c-b8700f01e689">
+<img width="1870" alt="image" src="https://github.com/fliucm/vr/assets/56698581/5ee354f2-85c9-44eb-9e6a-4fd60931d918">
 </p>
 
 ## 2.3 Bulldozer Game Prototype
@@ -90,5 +89,5 @@ I have collaborated with industry and academic practitioners on various VR (XR) 
 
 <p align="center">
   <img width="300" alt="image" src="https://github.com/fliucm/vr/assets/56698581/e87056d9-3b48-4808-b400-2da406c5a890">
-  <img width="300"  alt="1" src="https://github.com/fliucm/vr_exp/assets/56698581/373b6d89-bd2e-4171-b877-f69e691a0153">
+  <img width="300"  alt="1" src="https://github.com/fliucm/vr/assets/56698581/3e086633-6548-4e9a-9cc2-eccdcb45e707">
 </p>
