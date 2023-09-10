@@ -3,7 +3,7 @@
 
 ## 1.1 Designing Better Buildings: Virtual Reality (VR) Experiences
 
-This is an interdisciplinary research project to compare VR experiences to actual buildings spaces. It investigated the VR user experience in building design, as well as the reliability and benefits of adopting VR when assessing occupancy flow and space functionality issues.
+This interdisciplinary research project compared VR experiences with physical building spaces. It investigated the VR user experience in building design, and assessed the reliability and benefits of using VR to evaluate occupancy flow and space functionality.
 
 * **Tools**: Autodesk Revit, Unity Engine, Oculus Rift
 * **Relevant Publication**: Windham A, and **Liu F.** 2018. A study into the effectiveness of virtual reality as a design review tool for occupant flow and space functionality issues. CONVR2018, Auckland, New Zealand. Nov. 2018. ([Link](https://github.com/fliucm/vr/blob/c748bc4b1877332696976e39d97660a88c7cfeaa/files/Paper.pdf))  
@@ -16,7 +16,7 @@ The images below show a comparison of the VR environment (left) and the real spa
 
 ## 1.2 Perception of Scale in BIM-Based Virtual Reality Environments
 
-This project investigated how the scale of a VR environment might impact subjects’ perception of a design. It compared VR-based design reviews to physical mock-up perceptions in the scope of facility maintenance.
+This project investigated how the scale of a VR environment might influence subjects’ perception of a design. It compared VR-based design reviews to physical mock-up perceptions in the scope of facility maintenance.
 
 * **Tools**: SketchUp, Unreal Engine, Oculus Quest
 
